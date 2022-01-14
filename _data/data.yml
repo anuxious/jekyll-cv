@@ -18,10 +18,8 @@ languages:
   - idiom: Spanish
   - idiom: Odia (intermediate)
   - idiom: Assamese (intermediate)
-  - idiom: Urdu (basic)
-  - idiom: Punjabi (basic)
-  - idiom: Italian (basic)
-  - idiom: Portuguese (basic)
+  - idiom: Urdu, Punjabi (basic)
+  - idiom: Italian, Portuguese (basic)
 
 education:
   - degree: Secondary School, CBSE
@@ -45,10 +43,20 @@ skills:
       - PHP
       - C++
       
-  - category: Frontend
+  - category: Frameworks & Library
     skill:
       - React
-      - Typescript
+      - Node.js
+      - MongoDB
+      - MySQL
+      - Vue
+      - Express
+      - Gatsby
+      - Django
+      - Flask
+      - Numpy, Jupyter, Pandas
+      - Tensorflow
+      
   - category: DevOps
     skill:
       - Docker
