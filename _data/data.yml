@@ -1,29 +1,36 @@
-name: John Doe
+name: Anoushka (she/her)
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: me@anoushka.tech
+  github: anuxious
+  linkedin: anuxious
+  phone: on request
   gitlab: 
-  twitter: 
+  twitter: bhanoushka
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Bengali
+  - idiom: Hindi
+  - idiom: Spanish
+  - idiom: Odia (intermediate)
+  - idiom: Assamese (intermediate)
+  - idiom: Urdu (basic)
+  - idiom: Punjabi (basic)
+  - idiom: Italian (basic)
+  - idiom: Portuguese (basic)
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Senior Secondary School, CBSE 12th
+    time: 2016-2023
+    university: Delhi Public School, R.K. Puram
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Elementary / Junior School
+    time: 2011-2016
+    university: Delhi Public School, Vasant Vihar
 
 skills:
   - category: Backend
