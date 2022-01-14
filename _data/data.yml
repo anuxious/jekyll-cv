@@ -33,25 +33,23 @@ education:
 skills:
   - category: Programming
     skill: 
-      - Python, JavaScript, TypeScript, HTML, CSS/Sass, PHP, Kotlin, Java, Dart, C++
+      - Python, Dart, JavaScript, TypeScript, HTML, CSS/Sass, PHP, Kotlin, Java, C++
      
       
   - category: Frameworks & Library
     skill:
-      - React
-      - Node.js
-      - MongoDB
-      - MySQL
-      - Vue
-      - Express
-      - Gatsby
-      - Django
-      - Flask
-      - Numpy, Jupyter, Pandas
-      - Tensorflow
+      - jQuery, React, Vue, Node.js, Express, Django, Flask, OpenCV, Tensorflow, NumPy, Pandas, Jupyter, MongoDB
       
-  - category: DevOps
+  - category: Tools & platform 
     skill:
+      - Git, Netlify, Heroku, Vercel, Firebase, WordPress, SEO, SMM, OpenGL, MySQL
+  
+  - category: Design
+    skill:
+      - Photoshop, Illustrator, Procreate, XD, Blender, Figma, Lightroom, Autodesk Maya
+      
+   - category: Non technical
+     skill:
       - Docker
       - Kubernetes 
 
