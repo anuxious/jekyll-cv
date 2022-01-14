@@ -24,7 +24,7 @@ languages:
   - idiom: Portuguese (basic)
 
 education:
-  - degree: Senior Secondary School, CBSE 12th
+  - degree: Secondary School, CBSE
     time: 2016-2023
     university: Delhi Public School, R.K. Puram
 
@@ -33,10 +33,18 @@ education:
     university: Delhi Public School, Vasant Vihar
 
 skills:
-  - category: Backend
+  - category: Programming
     skill: 
-      - Go
-      - Rust
+      - Python
+      - JavaScript
+      - HTML, CSS/Sass
+      - TypeScript
+      - Java
+      - Kotlin
+      - Dart (Flutter)
+      - PHP
+      - C++
+      
   - category: Frontend
     skill:
       - React
